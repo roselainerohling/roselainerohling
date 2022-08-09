@@ -1,6 +1,6 @@
 ### Olá, 👋
 - 🔭 Atualmente estou trabalhando no Colégio Estadual Pio XII
-- 🌱 Estou aprendendo a usar a ferramenta Scratch e a linguagem Javascript
+- 🌱 Estou aprendendo a usar a ferramenta Scratch, linguagem Javascript, HTML e CSS
 - 👯 Estou procurando aprender o máximo possível
 - 🤔 Para poder ajudar os meus alunos
 ___
